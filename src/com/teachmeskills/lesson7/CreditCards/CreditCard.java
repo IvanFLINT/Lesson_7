@@ -53,5 +53,6 @@ public class CreditCard {
             default: System.out.println("Такой лицевой счет отсутствует"); break;
             }
         } while (check <= 3);
+        sc.close();
     }
 }
