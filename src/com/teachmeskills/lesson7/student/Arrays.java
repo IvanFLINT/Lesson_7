@@ -1,19 +1,6 @@
-package com.teachmeskills.lesson7.Student;
+package com.teachmeskills.lesson7.student;
 
-public class Student {
-    String name;
-    String surname;
-    String passport;
-    String groupName;
-    String age;
-
-    Student(String name, String surname,String  passport, String groupName){
-        this.name = name;
-        this.surname = surname;
-        this.passport = passport;
-        this.groupName = groupName;
-    }
-
+public class Arrays {
     public static void main(String[] args) {
         Student st1 = new Student("Артём", "Астапчик", "AB789012", "C27-onl");
         Student st2 = new Student("Алина", "Илькевич", "AB789012", "C27-onl");

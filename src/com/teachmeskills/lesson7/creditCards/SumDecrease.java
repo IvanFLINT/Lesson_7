@@ -1,6 +1,4 @@
-package com.teachmeskills.lesson7.CreditCards;
-
-import com.teachmeskills.lesson7.CreditCards.CreditCard;
+package com.teachmeskills.lesson7.creditCards;
 
 import java.util.Scanner;
 
