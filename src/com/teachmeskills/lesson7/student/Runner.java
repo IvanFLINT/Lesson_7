@@ -1,6 +1,6 @@
 package com.teachmeskills.lesson7.student;
 
-public class Arrays {
+public class Runner {
     public static void main(String[] args) {
         Student st1 = new Student("Артём", "Астапчик", "AB789012", "C27-onl");
         Student st2 = new Student("Алина", "Илькевич", "AB789012", "C27-onl");
