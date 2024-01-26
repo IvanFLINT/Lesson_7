@@ -1,4 +1,4 @@
-package com.teachmeskills.lesson7.student;
+package com.teachmeskills.lesson6.student;
 
 public class Runner {
     public static void main(String[] args) {
